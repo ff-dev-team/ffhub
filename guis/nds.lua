@@ -1,0 +1,1 @@
+print("Loading FFHub for Natural Disaster Survival...")
